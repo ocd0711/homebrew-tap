@@ -1,6 +1,6 @@
 cask "codex-stack" do
-  version "0.0.10"
-  sha256 "0f2a7111d86c529a1e4260c5a26bd272ee4857d3e81a4a33685447caba86d5a4"
+  version "0.0.11"
+  sha256 "eb4f26fe0a628e021adc978310fd95a0ac7e35249dd0332af3e6ecd88be37ca5"
 
   url "https://github.com/ocd0711/CodexStack/releases/download/v#{version}/codexStack-v#{version}-macos.zip",
       verified: "github.com/ocd0711/CodexStack/"
